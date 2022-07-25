@@ -1,0 +1,82 @@
+Removed Pin From Net: NetName=ArduinoDP4 Pin=J3-1
+Removed Pin From Net: NetName=ArduinoDP5 Pin=J3-2
+Removed Pin From Net: NetName=ArduinoDP6 Pin=J3-3
+Removed Pin From Net: NetName=ArduinoDP7 Pin=J3-4
+Removed Pin From Net: NetName=ArduinoDP8 Pin=J3-5
+Removed Pin From Net: NetName=ArduinoDP9 Pin=J3-6
+Removed Pin From Net: NetName=ArduinoDP11 Pin=J3-7
+Removed Pin From Net: NetName=ArduinoDP12 Pin=J3-8
+Removed Pin From Net: NetName=ArduinoA0 Pin=J3-9
+Removed Member From Class: ClassName=ShiftMux Member=J3
+Change Component Designator: OldDesignator=J1 NewDesignator=COLS
+Change Component Designator: OldDesignator=J2 NewDesignator=COLS1
+Change Component Designator: OldDesignator=J4 NewDesignator=RAWS
+Added Component: Designator=ArduinoShift(MOLEX 395021003)
+Add component (AddParameter): Name = "Color"; Value = "Black"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.molex.com/pdm_docs/sd/395021002_sd.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "DigiKey Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://digikey.com/product-detail/en/molex/0395021003/WM7771-ND/1280622"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Mating Finish"; Value = "Tin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current - UL"; Value = "8A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Header Orientation"; Value = "90°, Right Angle"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LastUpdated"; Value = "25.06.2020 15:44:18"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lifecycle Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Minimum Order"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Levels"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Positions"; Value = "3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-40°C ~ 105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tray"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "0395021003"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "0.138" (3.50mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Positions Per Level"; Value = "3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.78"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "Eurostyle ESE 39502"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "WM7771-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination Style"; Value = "Solder"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Header, Male Pins, Shrouded (4 Side)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - UL"; Value = "300V"; VariantName = "[No Variations]"
+Added Component: Designator=J?(MOLEX 395021006)
+Add component (AddParameter): Name = "Color"; Value = "Black"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.molex.com/pdm_docs/sd/395021002_sd.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "DigiKey Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://digikey.com/product-detail/en/molex/0395021006/WM7774-ND/1280625"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Mating Finish"; Value = "Tin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current - UL"; Value = "8A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Header Orientation"; Value = "90°, Right Angle"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LastUpdated"; Value = "25.06.2020 15:45:17"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lifecycle Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Minimum Order"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Levels"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Positions"; Value = "6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-40°C ~ 105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "0395021006"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "0.138" (3.50mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Positions Per Level"; Value = "6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "1.40"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "Eurostyle ESE 39502"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "WM7774-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination Style"; Value = "Solder"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Header, Male Pins, Shrouded (4 Side)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - UL"; Value = "300V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=ArduinoDP8 Pin=ArduinoShift-1
+Added Pin To Net: NetName=ArduinoDP11 Pin=ArduinoShift-2
+Added Pin To Net: NetName=ArduinoDP12 Pin=ArduinoShift-3
+Added Pin To Net: NetName=ArduinoDP4 Pin=J?-1
+Added Pin To Net: NetName=ArduinoDP5 Pin=J?-2
+Added Pin To Net: NetName=ArduinoDP6 Pin=J?-3
+Added Pin To Net: NetName=ArduinoDP7 Pin=J?-4
+Added Pin To Net: NetName=ArduinoDP9 Pin=J?-5
+Added Pin To Net: NetName=ArduinoA0 Pin=J?-6
+Added Member To Class: ClassName=ShiftMux Member=Component ArduinoShift 0395021003
+Added Member To Class: ClassName=ShiftMux Member=Component J? 0395021006

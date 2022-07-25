@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=ArduinoDP9 Pin=ArduinoMux-1
+Removed Pin From Net: NetName=ArduinoDP4 Pin=ArduinoMux-2
+Added Pin To Net: NetName=ArduinoDP4 Pin=ArduinoMux-1
+Added Pin To Net: NetName=ArduinoDP9 Pin=ArduinoMux-2
+Added Room: Name=ShiftMux

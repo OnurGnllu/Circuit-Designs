@@ -1,0 +1,13 @@
+Added Member To Class: ClassName=ShiftMux Member=Component ArduinoMux 0395021006
+Added Member To Class: ClassName=ShiftMux Member=Component ArduinoShift 0395021003
+Added Member To Class: ClassName=ShiftMux Member=Component C1 0.1µF
+Added Member To Class: ClassName=ShiftMux Member=Component C2 0.1µF
+Added Member To Class: ClassName=ShiftMux Member=Component COLS1 0395021012
+Added Member To Class: ClassName=ShiftMux Member=Component COLS 0395021008
+Added Member To Class: ClassName=ShiftMux Member=Component IC1 74HC595N
+Added Member To Class: ClassName=ShiftMux Member=Component IC2 74HC595N
+Added Member To Class: ClassName=ShiftMux Member=Component IC3 74HC595N
+Added Member To Class: ClassName=ShiftMux Member=Component IC4 74HC4051N,652
+Added Member To Class: ClassName=ShiftMux Member=Component IC5 74HC4051N,652
+Added Member To Class: ClassName=ShiftMux Member=Component RAWS 0395021008
+Added Room: Name=ShiftMux
