@@ -1,0 +1,2 @@
+tüm poligonlar için InPolygon
+sadece belli bir poligon için InNamedPolygon('GND_L01_P006')  

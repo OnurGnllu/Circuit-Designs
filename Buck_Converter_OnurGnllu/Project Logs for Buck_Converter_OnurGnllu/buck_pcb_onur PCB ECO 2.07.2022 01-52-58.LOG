@@ -1,0 +1,38 @@
+Added Component: Designator=C1(100uF through hole)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C2(100uF through hole)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D1(1N5822)
+Add component. Clean all parameters for all variants
+Added Component: Designator=IC1(LM2596)
+Add component. Clean all parameters for all variants
+Added Component: Designator=L1(33uH smd Inductor)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R1(805Res)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R2(805Res)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=GND Pin=D1-A
+Added Pin To Net: NetName=GND Pin=IC1-3
+Added Pin To Net: NetName=GND Pin=IC1-3
+Added Pin To Net: NetName=GND Pin=IC1-5
+Added Pin To Net: NetName=GND Pin=R2-1
+Added Net: Name=GND
+Added Pin To Net: NetName=NetD1_K Pin=D1-K
+Added Pin To Net: NetName=NetD1_K Pin=IC1-2
+Added Pin To Net: NetName=NetD1_K Pin=L1-1
+Added Net: Name=NetD1_K
+Added Pin To Net: NetName=NetIC1_4 Pin=IC1-4
+Added Pin To Net: NetName=NetIC1_4 Pin=R2-2
+Added Net: Name=NetIC1_4
+Added Pin To Net: NetName=Vin Pin=C1-1
+Added Pin To Net: NetName=Vin Pin=IC1-1
+Added Net: Name=Vin
+Added Pin To Net: NetName=Vout Pin=C2-1
+Added Pin To Net: NetName=Vout Pin=L1-2
+Added Pin To Net: NetName=Vout Pin=R1-2
+Added Net: Name=Vout
+Added Class: Name=buck_sch
+Added Room: Name=buck_sch
