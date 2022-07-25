@@ -1,0 +1,10 @@
+Added Component: Designator=H1(Header 1x6 2.54mm)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=motorA Pin=H1-1
+Added Pin To Net: NetName=motorB Pin=H1-2
+Added Pin To Net: NetName=motorC Pin=H1-3
+Added Pin To Net: NetName=sen-A Pin=H1-4
+Added Pin To Net: NetName=sen-B Pin=H1-5
+Added Pin To Net: NetName=sen-C Pin=H1-6
+Added Member To Class: ClassName=schematic Member=Component H1 header 1x6 2.54mm
+Added Room: Name=schematic

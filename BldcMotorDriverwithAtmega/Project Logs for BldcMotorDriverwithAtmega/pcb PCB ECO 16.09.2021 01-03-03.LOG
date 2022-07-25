@@ -1,0 +1,173 @@
+Added Component: Designator=C3(smd cap)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C4(smd cap)
+Add component. Clean all parameters for all variants
+Added Component: Designator=H4(Header 1x6 2.54mm)
+Add component. Clean all parameters for all variants
+Added Component: Designator=H5(HEADER 1X2 2.54mm)
+Add component. Clean all parameters for all variants
+Added Component: Designator=H6(HEADER 1X2 2.54mm)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R12(smd res)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R13(smd trimpot)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R14(smd res)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R15(smd res)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R16(smd res)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R17(smd res)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R18(smd res)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R19(smd res)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R20(smd res)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R21(smd res)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R22(smd res)
+Add component. Clean all parameters for all variants
+Added Component: Designator=T8(TO-92)
+Add component. Clean all parameters for all variants
+Added Component: Designator=T9(smd mosfet)
+Add component. Clean all parameters for all variants
+Added Component: Designator=T10(smd mosfet)
+Add component. Clean all parameters for all variants
+Added Component: Designator=T11(smd mosfet)
+Add component. Clean all parameters for all variants
+Added Component: Designator=T12(smd mosfet)
+Add component. Clean all parameters for all variants
+Added Component: Designator=T13(smd mosfet)
+Add component. Clean all parameters for all variants
+Added Component: Designator=T14(smd mosfet)
+Add component. Clean all parameters for all variants
+Added Component: Designator=U3(atmega238p)
+Add component. Clean all parameters for all variants
+Added Component: Designator=U4(SOIC127P1030X265-14N)
+Add component. Clean all parameters for all variants
+Added Component: Designator=X2(xtal)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=NetC3_1 Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C3-2
+Added Pin To Net: NetName=NetC4_1 Pin=C4-1
+Added Pin To Net: NetName=GND Pin=C4-2
+Added Pin To Net: NetName=motorB Pin=H4-2
+Added Pin To Net: NetName=motorC Pin=H4-3
+Added Pin To Net: NetName=SenA Pin=H4-4
+Added Pin To Net: NetName=SenB Pin=H4-5
+Added Pin To Net: NetName=SenC Pin=H4-6
+Added Pin To Net: NetName=3.3V Pin=H5-1
+Added Pin To Net: NetName=GND Pin=H5-2
+Added Pin To Net: NetName=26V Pin=H6-1
+Added Pin To Net: NetName=GND Pin=H6-2
+Added Pin To Net: NetName=NetR12_1 Pin=R12-1
+Added Pin To Net: NetName=3.3V Pin=R12-2
+Added Pin To Net: NetName=5V Pin=R13-1
+Added Pin To Net: NetName=GND Pin=R13-2
+Added Pin To Net: NetName=NetR13_3 Pin=R13-3
+Added Pin To Net: NetName=SenA Pin=R14-2
+Added Pin To Net: NetName=SenB Pin=R15-2
+Added Pin To Net: NetName=SenC Pin=R16-2
+Added Pin To Net: NetName=BackemfC Pin=R17-1
+Added Pin To Net: NetName=GND Pin=R17-2
+Added Pin To Net: NetName=GND Pin=R18-2
+Added Pin To Net: NetName=BackemfB Pin=R19-1
+Added Pin To Net: NetName=GND Pin=R19-2
+Added Pin To Net: NetName=NetR20_1 Pin=R20-1
+Added Pin To Net: NetName=BackemfA Pin=R20-2
+Added Pin To Net: NetName=NetR20_1 Pin=R21-1
+Added Pin To Net: NetName=BackemfB Pin=R21-2
+Added Pin To Net: NetName=NetR20_1 Pin=R22-1
+Added Pin To Net: NetName=BackemfC Pin=R22-2
+Added Pin To Net: NetName=NetR12_1 Pin=T8-1
+Added Pin To Net: NetName=NetR20_1 Pin=T8-2
+Added Pin To Net: NetName=GND Pin=T8-3
+Added Pin To Net: NetName=HA Pin=T9-1
+Added Pin To Net: NetName=26V Pin=T9-2
+Added Pin To Net: NetName=NetT9_3 Pin=T9-3
+Added Pin To Net: NetName=HB Pin=T10-1
+Added Pin To Net: NetName=26V Pin=T10-2
+Added Pin To Net: NetName=NetT10_3 Pin=T10-3
+Added Pin To Net: NetName=HC Pin=T11-1
+Added Pin To Net: NetName=26V Pin=T11-2
+Added Pin To Net: NetName=NetT11_3 Pin=T11-3
+Added Pin To Net: NetName=LA Pin=T12-1
+Added Pin To Net: NetName=NetT9_3 Pin=T12-2
+Added Pin To Net: NetName=GND Pin=T12-3
+Added Pin To Net: NetName=LB Pin=T13-1
+Added Pin To Net: NetName=NetT10_3 Pin=T13-2
+Added Pin To Net: NetName=GND Pin=T13-3
+Added Pin To Net: NetName=LC Pin=T14-1
+Added Pin To Net: NetName=NetT11_3 Pin=T14-2
+Added Pin To Net: NetName=GND Pin=T14-3
+Added Pin To Net: NetName=GND Pin=U3-3
+Added Pin To Net: NetName=3.3V Pin=U3-4
+Added Pin To Net: NetName=GND Pin=U3-5
+Added Pin To Net: NetName=3.3V Pin=U3-6
+Added Pin To Net: NetName=NetU3_7 Pin=U3-7
+Added Pin To Net: NetName=NetC4_1 Pin=U3-8
+Added Pin To Net: NetName=NetU3_10 Pin=U3-10
+Added Pin To Net: NetName=NetU3_12 Pin=U3-12
+Added Pin To Net: NetName=NetU3_13 Pin=U3-13
+Added Pin To Net: NetName=NetU3_14 Pin=U3-14
+Added Pin To Net: NetName=NetU3_15 Pin=U3-15
+Added Pin To Net: NetName=NetU3_16 Pin=U3-16
+Added Pin To Net: NetName=NetU3_17 Pin=U3-17
+Added Pin To Net: NetName=3.3V Pin=U3-20
+Added Pin To Net: NetName=GND Pin=U3-21
+Added Pin To Net: NetName=NetU3_23 Pin=U3-23
+Added Pin To Net: NetName=NetU3_24 Pin=U3-24
+Added Pin To Net: NetName=NetU3_25 Pin=U3-25
+Added Pin To Net: NetName=NetR13_3 Pin=U3-26
+Added Pin To Net: NetName=3.3V Pin=U3-29
+Added Pin To Net: NetName=NetR12_1 Pin=U3-32
+Added Pin To Net: NetName=IO8 Pin=U4-2
+Added Pin To Net: NetName=HA Pin=U4-3
+Added Pin To Net: NetName=HB Pin=U4-6
+Added Pin To Net: NetName=GND Pin=U4-7
+Added Pin To Net: NetName=HC Pin=U4-8
+Added Pin To Net: NetName=3.3V Pin=U4-14
+Added Pin To Net: NetName=NetC3_1 Pin=X2-1
+Added Pin To Net: NetName=GND Pin=X2-2
+Added Pin To Net: NetName=NetC4_1 Pin=X2-3
+Added Pin To Net: NetName=GND Pin=X2-4
+Added Pin To Net: NetName=IO10 Pin=U4-5
+Added Net: Name=IO10
+Added Pin To Net: NetName=IO12 Pin=U4-10
+Added Net: Name=IO12
+Added Pin To Net: NetName=motorA Pin=H4-1
+Added Net: Name=motorA
+Added Pin To Net: NetName=Speed Pin=U4-1
+Added Pin To Net: NetName=Speed Pin=U4-4
+Added Pin To Net: NetName=Speed Pin=U4-9
+Added Net: Name=Speed
+Added Member To Class: ClassName=schematic Member=Component C3 22pF Smd
+Added Member To Class: ClassName=schematic Member=Component C4 22pF Smd
+Added Member To Class: ClassName=schematic Member=Component H4 header 1x6 2.54mm
+Added Member To Class: ClassName=schematic Member=Component H5 header 1x2 2.54mm
+Added Member To Class: ClassName=schematic Member=Component H6 header 1x2 2.54mm
+Added Member To Class: ClassName=schematic Member=Component R12 10K Res
+Added Member To Class: ClassName=schematic Member=Component R13 1k  POT
+Added Member To Class: ClassName=schematic Member=Component R14 RES 1K
+Added Member To Class: ClassName=schematic Member=Component R15 RES 1K
+Added Member To Class: ClassName=schematic Member=Component R16 RES 1K
+Added Member To Class: ClassName=schematic Member=Component R17 RES 1K
+Added Member To Class: ClassName=schematic Member=Component R18 RES 1K
+Added Member To Class: ClassName=schematic Member=Component R19 RES 1K
+Added Member To Class: ClassName=schematic Member=Component R20 RES 1K
+Added Member To Class: ClassName=schematic Member=Component R21 RES 1K
+Added Member To Class: ClassName=schematic Member=Component R22 RES 1K
+Added Member To Class: ClassName=schematic Member=Component T8 BC547
+Added Member To Class: ClassName=schematic Member=Component T9 IRF3205
+Added Member To Class: ClassName=schematic Member=Component T10 IRF3205
+Added Member To Class: ClassName=schematic Member=Component T11 IRF3205
+Added Member To Class: ClassName=schematic Member=Component T12 IRF3205
+Added Member To Class: ClassName=schematic Member=Component T13 IRF3205
+Added Member To Class: ClassName=schematic Member=Component T14 IRF3205
+Added Member To Class: ClassName=schematic Member=Component U3 atmega328p
+Added Member To Class: ClassName=schematic Member=Component U4 74hc08 and gate
+Added Member To Class: ClassName=schematic Member=Component X2 XTAL
+Added Room: Name=schematic

@@ -1,0 +1,50 @@
+Added Component: Designator=H1(Header 1x6 2.54mm)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=NetH1_1 Pin=H1-1
+Added Pin To Net: NetName=NetH1_1 Pin=T9-3
+Added Pin To Net: NetName=NetH1_1 Pin=T12-2
+Added Net: Name=NetH1_1
+Added Pin To Net: NetName=NetH1_2 Pin=H1-2
+Added Pin To Net: NetName=NetH1_2 Pin=T10-3
+Added Pin To Net: NetName=NetH1_2 Pin=T13-2
+Added Net: Name=NetH1_2
+Added Pin To Net: NetName=NetH1_3 Pin=H1-3
+Added Pin To Net: NetName=NetH1_3 Pin=T11-3
+Added Pin To Net: NetName=NetH1_3 Pin=T14-2
+Added Net: Name=NetH1_3
+Added Pin To Net: NetName=NetH1_4 Pin=H1-4
+Added Pin To Net: NetName=NetH1_4 Pin=R14-2
+Added Net: Name=NetH1_4
+Added Pin To Net: NetName=NetH1_5 Pin=H1-5
+Added Pin To Net: NetName=NetH1_5 Pin=R15-2
+Added Net: Name=NetH1_5
+Added Pin To Net: NetName=NetH1_6 Pin=H1-6
+Added Pin To Net: NetName=NetH1_6 Pin=R16-2
+Added Net: Name=NetH1_6
+Added Member To Class: ClassName=schematic Member=Component C3 22pF Smd
+Added Member To Class: ClassName=schematic Member=Component C4 22pF Smd
+Added Member To Class: ClassName=schematic Member=Component H1 header 1x6 2.54mm
+Added Member To Class: ClassName=schematic Member=Component H5 header 1x2 2.54mm
+Added Member To Class: ClassName=schematic Member=Component H6 header 1x2 2.54mm
+Added Member To Class: ClassName=schematic Member=Component R12 10K Res
+Added Member To Class: ClassName=schematic Member=Component R13 1k  POT
+Added Member To Class: ClassName=schematic Member=Component R14 RES 1K
+Added Member To Class: ClassName=schematic Member=Component R15 RES 1K
+Added Member To Class: ClassName=schematic Member=Component R16 RES 1K
+Added Member To Class: ClassName=schematic Member=Component R17 RES 1K
+Added Member To Class: ClassName=schematic Member=Component R18 RES 1K
+Added Member To Class: ClassName=schematic Member=Component R19 RES 1K
+Added Member To Class: ClassName=schematic Member=Component R20 RES 1K
+Added Member To Class: ClassName=schematic Member=Component R21 RES 1K
+Added Member To Class: ClassName=schematic Member=Component R22 RES 1K
+Added Member To Class: ClassName=schematic Member=Component T8 BC547
+Added Member To Class: ClassName=schematic Member=Component T9 IRF3205
+Added Member To Class: ClassName=schematic Member=Component T10 IRF3205
+Added Member To Class: ClassName=schematic Member=Component T11 IRF3205
+Added Member To Class: ClassName=schematic Member=Component T12 IRF3205
+Added Member To Class: ClassName=schematic Member=Component T13 IRF3205
+Added Member To Class: ClassName=schematic Member=Component T14 IRF3205
+Added Member To Class: ClassName=schematic Member=Component U3 atmega328p
+Added Member To Class: ClassName=schematic Member=Component U4 74hc08 and gate
+Added Member To Class: ClassName=schematic Member=Component X2 XTAL
+Added Room: Name=schematic
